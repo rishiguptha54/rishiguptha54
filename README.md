@@ -1,23 +1,35 @@
-<h1 align="center">Hi 👋, I'm <b>Rishi Guptha .N</b></h1>
+<h1 align="center">Hi 👋, I'm</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Rishi+Guptha+N" alt="Typing Animation">
+</p>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishiguptha54&label=Profile%20views&color=0e75b6&style=flat" alt="rishiguptha54" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishiguptha54" alt="rishiguptha54" /></a> </p>
 
-- 🔭 I’m currently working on [WanderLust](https://wanderlust-r.onrender.com/)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=1000&pause=500&color=00FF00&background=00000000&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;💻+MERN+Stack+Specialist;🌐+App+Creator;⚡+DataScience+Explorer" alt="Neon Glow Animation">
+</p>
+
+
+- 🖁 I’m currently working on [WanderLust](https://wanderlust-r.onrender.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/rishiguptha54](https://github.com/rishiguptha54)
 
-- 💬 Ask me about **MERN stack,Kotlin,Machine Learning**
+- 🌐 Check out my portfolio website: [My Portfolio](https://rishiguptha-portfolio.com)
 
-- 📫 How to reach me **rishiguptha45@gmail.cpm**
+- 👭 Ask me about **MERN stack, Kotlin, Machine Learning**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PsdiqwSh_YsAdIWJpNs6fFji5vCQQOjy/view?usp=sharing](https://drive.google.com/file/d/1PsdiqwSh_YsAdIWJpNs6fFji5vCQQOjy/view?usp=sharing)
+- 💎 How to reach me **rishiguptha45@gmail.com**
 
-- ⚡ Fun fact **"My life is stuck in a 3D loop—Design, Data, Development… and just like any infinite loop, there's no exit condition! 🔄💀"**
+- 📝 Know about my experiences [My Resume](https://drive.google.com/file/d/1PsdiqwSh_YsAdIWJpNs6fFji5vCQQOjy/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+- ⚡ Fun fact **"My life is stuck in a 3D loop—Design, Data, Development… and just like any infinite loop, there's no exit condition! 🛠️💀"**
+
+---
+
+### 🔗 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/rishi guptha neelisetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishi guptha neelisetty" height="30" width="40" /></a>
 <a href="https://kaggle.com/rishigupthan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rishigupthan" height="30" width="40" /></a>
@@ -26,28 +38,49 @@
 <a href="https://auth.geeksforgeeks.org/user/rishiguptha45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rishiguptha45" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishiguptha54&show_icons=true&locale=en&layout=compact" alt="rishiguptha54" /></p>
+### 💡 Skills & Technologies:
+#### 🖥️ Programming Languages:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishiguptha54&show_icons=true&locale=en" alt="rishiguptha54" /></p>
+#### 🌐 Frontend Development:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishiguptha54&" alt="rishiguptha54" /></p>
+#### 🏗️ Backend Development:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite" />
+</p>
 
-## Hi there 👋
+#### 📱 Mobile App Development:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin" />
+</p>
 
-<!--
-**rishiguptha54/rishiguptha54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🛠️ Tools & Platforms:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" />
+</p>
 
-Here are some ideas to get you started:
+#### ☁️ Cloud & AI/ML:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,tensorflow,pytorch,matlab" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 LeetCode Streak & Problems Solved:
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/rishiguptha45?theme=dark&font=Abel&ext=heatmap" alt="LeetCode Streak" />
+</p>
+
+### 🎵 I 🎧 Listen to Music While Coding  
+<p align="center">
+  <a href="https://open.spotify.com/user/melophile" target="_blank">
+    <img src="https://img.shields.io/badge/I%20🎧%20Listen%20to%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge">
+  </a>
+</p>
+
