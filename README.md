@@ -13,7 +13,7 @@
 </p>
 
 
-- 🖁 I’m currently working on [WanderLust](https://wanderlust-r.onrender.com/)
+- 🖁 I’m currently working on Blogging Website Project
 
 - 👨‍💻 All of my projects are available at [https://github.com/rishiguptha54](https://github.com/rishiguptha54)
 
@@ -23,7 +23,7 @@
 
 - 💎 How to reach me **rishiguptha45@gmail.com**
 
-- 📝 Know about my experiences [My Resume](https://drive.google.com/file/d/1PsdiqwSh_YsAdIWJpNs6fFji5vCQQOjy/view?usp=sharing)
+- 📝 Know about my experiences [My Resume](https://drive.google.com/file/d/1TbjZ1f6nAKEmp_4cRu3_QIrOIFLr7aY4/view?usp=sharing)
 
 - ⚡ Fun fact **"My life is stuck in a 3D loop—Design, Data, Development… and just like any infinite loop, there's no exit condition! 🛠️💀"**
 
