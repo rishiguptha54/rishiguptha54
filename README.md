@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rishiguptha54](https://github.com/rishiguptha54)
 
-- 🌐 Check out my portfolio website: [My Portfolio](https://rishiguptha-portfolio.com)
+- 🌐 Check out my portfolio website: [My Portfolio](https://www.rishi45.dev/)
 
 - 👭 Ask me about **MERN stack, Kotlin, Machine Learning**
 
