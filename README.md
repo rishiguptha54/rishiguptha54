@@ -23,7 +23,7 @@
 
 - 💎 How to reach me **rishiguptha45@gmail.com**
 
-- 📝 Know about my experiences [My Resume](https://drive.google.com/file/d/1TbjZ1f6nAKEmp_4cRu3_QIrOIFLr7aY4/view?usp=sharing)
+- 📝 Know about my experiences [My Resume](https://drive.google.com/file/d/1i9OPYX9DGV-s3Vc_0G4TKwoBJjQWGd_K/view?usp=sharing)
 
 - ⚡ Fun fact **"My life is stuck in a 3D loop—Design, Data, Development… and just like any infinite loop, there's no exit condition! 🛠️💀"**
 
